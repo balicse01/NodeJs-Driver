@@ -181,8 +181,6 @@ epub_title = project
 # A list of files that should not be packed into the epub file.
 epub_exclude_files = ['search.html']
 
-rst_epilog = """
-.. |NoSQLSdkVersion| replace:: {version}
-""".format(version=borneo.__version__)
+
 
 # -- Extension configuration -------------------------------------------------
