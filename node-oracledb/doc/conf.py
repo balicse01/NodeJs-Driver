@@ -21,7 +21,6 @@ from datetime import datetime
 # add path to this project before import
 sys.path.insert(0, os.path.abspath('../src'))
 
-import borneo
 
 
 # -- Project information -----------------------------------------------------
